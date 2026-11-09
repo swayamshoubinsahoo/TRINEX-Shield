@@ -4,7 +4,7 @@
 ## 2. Problem
 
 Modern cyber threats exploit user blind spots using advanced deceptive techniques:
-- **Homograph & Typo-squatting Attacks:** Deceptive look-alike domains (e.g., Punycode scripts) bypass visual inspection and traditional blocklists[cite: 1, 2].
+- **Homograph & Typo-squatting Attacks:** Deceptive look-alike domains (e.g., Punycode scripts) bypass visual inspection and traditional blocklists.
 - **Social Engineering in Direct Messaging:** Urgent, coercive messages across SMS, WhatsApp, and email push users into clicking fraudulent links before threat intelligence feeds can index them
 - **Malleable & Untrusted Audit Logs:** Centralized security audit logs can be forged, manipulated, or altered after an incident occurs, making verifiable post-mortem forensic analysis difficult
 
@@ -72,7 +72,7 @@ Local Installation and Execution:
 
 - **AI Tools Usage:**
   - LLMs (Google Gemini) were used for ideation brainstorming, syntactic code review, test case generation, and structuring documentation.
-  ## 9. Track
+## 9. Track
 
 - **Primary Track:** Cybersecurity / Threat Intelligence & Defense
 - **Secondary Track:** Web3 & Trustless Auditing / AI & Automation
