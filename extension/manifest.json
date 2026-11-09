@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "TRINEX Shield",
+  "version": "1.0",
+  "description": "Passive URL anatomy check in the browser, plus one-click investigation.",
+  "permissions": ["tabs"],
+  "action": { "default_popup": "popup.html", "default_title": "TRINEX Shield" },
+  "omnibox": { "keyword": "trinex" },
+  "background": { "service_worker": "background.js" }
+}
