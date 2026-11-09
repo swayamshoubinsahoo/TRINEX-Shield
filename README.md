@@ -1,4 +1,4 @@
-# TRINEX Shield
+# 🛡️ TRINEX Shield
 
 > **TRINEX Shield** is an intelligent, multi-layered threat detection engine that verifies malicious links in real-time, analyzes social engineering scam messages, and anchors verifiable audit reports on-chain.
 ## 2. Problem
